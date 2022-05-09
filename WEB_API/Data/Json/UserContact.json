@@ -1,0 +1,146 @@
+[
+  {
+    "FirstName": "Sara",
+    "LastName": "Pindell",
+    "Email": "iyinoluwasamuel@gmail.com",
+    "Gender": "Female",
+    "ImageUrl": "spindell0@digg.com",
+    "Address": [
+      {
+        "Id": "741b07da-48b5-4a76-ab40-91b098d0f99f",
+        "StreetNumber": "322",
+        "StreetName": "Northfield",
+        "City": "Montgomery",
+        "State": "Alabama",
+        "Country": "United States"
+      },
+      {
+        "Id": "a26849d2-95ce-4070-b25f-557be9b0b24b",
+        "StreetNumber": "195",
+        "StreetName": "Lake View",
+        "City": "Mobile",
+        "State": "Alabama",
+        "Country": "United States"
+      }
+    ],
+    "CreatedAt": "6/26/2021",
+    "UpdatedAt": "12/22/2021",
+    "IsAdmin": false
+  },
+
+  {
+    "FirstName": "Pharell",
+    "LastName": "Pindell",
+    "Email": "karonwiyin@gmail.com",
+    "Gender": "Male",
+    "ImageUrl": "spindell0@digg.com",
+    "Address": [
+      {
+        "Id": "2418ac4b-d198-4dad-943f-df4ac5daf56d",
+        "StreetNumber": "511",
+        "StreetName": "Northland",
+        "City": "Akansas",
+        "State": "Lagos",
+        "Country": "Liberia"
+      },
+      {
+        "Id": "13f4a287-4e43-4973-bf3f-53f81989e8a2",
+        "StreetNumber": "195",
+        "StreetName": "Express",
+        "City": "Extension",
+        "State": "Burito",
+        "Country": "Senegal"
+      }
+    ],
+    "CreatedAt": "6/26/2022",
+    "UpdatedAt": "12/22/2022",
+    "IsAdmin": false
+  },
+
+  {
+    "FirstName": "Rita",
+    "LastName": "Karonwi",
+    "Email": "habiba@gmail.com",
+    "Gender": "Male",
+    "ImageUrl": "spindell0@digg.com",
+    "Address": [
+      {
+        "Id": "2768ac4b-d154-4dad-713f-df4ac5daf56d",
+        "StreetNumber": "200",
+        "StreetName": "Northland",
+        "City": "Akansas",
+        "State": "Lagos",
+        "Country": "Liberia"
+      },
+      {
+        "Id": "90f4a287-4e83-3111-bf3f-93f793989e8a2",
+        "StreetNumber": "111",
+        "StreetName": "Express",
+        "City": "Extension",
+        "State": "Burito",
+        "Country": "Senegal"
+      }
+    ],
+    "CreatedAt": "6/26/2021",
+    "UpdatedAt": "12/22/2021",
+    "IsAdmin": false
+  },
+  {
+    "FirstName": "Avatar",
+    "LastName": "Bosan",
+    "Email": "jonsers@gmail.com",
+    "Gender": "Male",
+    "ImageUrl": "spindell0@digg.com",
+    "Address": [
+      {
+        "Id": "8412ac4b-d140-4dad-563f-df4ac5daf56d",
+        "StreetNumber": "900",
+        "StreetName": "Northland",
+        "City": "Akansas",
+        "State": "Lagos",
+        "Country": "Liberia"
+      },
+      {
+        "Id": "42f4a456-4e43-4973-bf3f-53f81989e8a2",
+        "StreetNumber": "195",
+        "StreetName": "Express",
+        "City": "Extension",
+        "State": "Burito",
+        "Country": "Senegal"
+      }
+    ],
+    "CreatedAt": "6/26/2021",
+    "UpdatedAt": "12/22/2021",
+    "IsAdmin": false
+  },
+  {
+    "FirstName": "Christopher",
+    "LastName": "Kilanshe",
+    "Email": "kilanshe@gmail.com",
+    "Gender": "Female",
+    "ImageUrl": "spindell0@digg.com",
+    "Address": [
+      {
+        "Id": "4444ac4b-d100-4dad-222f-df4ac5daf56d",
+        "StreetNumber": "511",
+        "StreetName": "Northland",
+        "City": "Akansas",
+        "State": "Lagos",
+        "Country": "Liberia"
+      },
+      {
+        "Id": "13f4a287-4e43-4973-bf3f-53f81989e8a2",
+        "StreetNumber": "195",
+        "StreetName": "Express",
+        "City": "Extension",
+        "State": "Burito",
+        "Country": "Senegal"
+      }
+    ],
+    "CreatedAt": "6/26/2021",
+    "UpdatedAt": "12/22/2021",
+    "IsAdmin": false
+  }
+
+
+]

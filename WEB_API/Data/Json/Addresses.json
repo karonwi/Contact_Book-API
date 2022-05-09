@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "741b07da-48b5-4a76-ab40-91b098d0f99f",
+    "UserId": "13f4a287-4e43-4973-bf3f-53f81989e8a2",
+    "StreetNumber": "322",
+    "StreetName": "Northfield",
+    "City": "Montgomery",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "Id": "a26849d2-95ce-4070-b25f-557be9b0b24b",
+    "UserId": "2418ac4b-d198-4dad-943f-df4ac5daf56d",
+    "StreetNumber": "195",
+    "StreetName": "Lake View",
+    "City": "Mobile",
+    "State": "Alabama",
+    "Country": "United States"
+  }
+]
